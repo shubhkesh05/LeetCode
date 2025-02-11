@@ -30,6 +30,7 @@ https://leetcode.com/u/19t4SGXixa/
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/shubhkesh05/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shubhkesh05/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/shubhkesh05/LeetCode/tree/master/3447-clear-digits) |
 ## Design
@@ -56,9 +57,11 @@ https://leetcode.com/u/19t4SGXixa/
 ## String
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/shubhkesh05/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/shubhkesh05/LeetCode/tree/master/3447-clear-digits) |
 ## Stack
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/shubhkesh05/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/shubhkesh05/LeetCode/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
