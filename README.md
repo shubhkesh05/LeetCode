@@ -25,6 +25,7 @@ https://leetcode.com/u/19t4SGXixa/
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/shubhkesh05/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/shubhkesh05/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shubhkesh05/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/shubhkesh05/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2434-design-a-number-container-system](https://github.com/shubhkesh05/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/shubhkesh05/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -46,6 +47,7 @@ https://leetcode.com/u/19t4SGXixa/
 ## Design
 |  |
 | ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shubhkesh05/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shubhkesh05/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/shubhkesh05/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Heap (Priority Queue)
@@ -109,4 +111,20 @@ https://leetcode.com/u/19t4SGXixa/
 |  |
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shubhkesh05/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+## Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shubhkesh05/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shubhkesh05/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shubhkesh05/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shubhkesh05/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
