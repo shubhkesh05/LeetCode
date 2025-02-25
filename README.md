@@ -7,6 +7,7 @@ https://leetcode.com/u/19t4SGXixa/
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/shubhkesh05/LeetCode/tree/master/0031-next-permutation) |
+| [0303-range-sum-query-immutable](https://github.com/shubhkesh05/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shubhkesh05/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/shubhkesh05/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shubhkesh05/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -49,6 +50,7 @@ https://leetcode.com/u/19t4SGXixa/
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/shubhkesh05/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shubhkesh05/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shubhkesh05/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/shubhkesh05/LeetCode/tree/master/2434-design-a-number-container-system) |
@@ -100,6 +102,7 @@ https://leetcode.com/u/19t4SGXixa/
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/shubhkesh05/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shubhkesh05/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Backtracking
 |  |
