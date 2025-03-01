@@ -90,6 +90,7 @@ https://leetcode.com/u/19t4SGXixa/
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shubhkesh05/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shubhkesh05/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shubhkesh05/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/shubhkesh05/LeetCode/tree/master/3447-clear-digits) |
@@ -122,12 +123,14 @@ https://leetcode.com/u/19t4SGXixa/
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shubhkesh05/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shubhkesh05/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shubhkesh05/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shubhkesh05/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shubhkesh05/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shubhkesh05/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shubhkesh05/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
@@ -137,6 +140,7 @@ https://leetcode.com/u/19t4SGXixa/
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/shubhkesh05/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shubhkesh05/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shubhkesh05/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shubhkesh05/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
