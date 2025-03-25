@@ -9,6 +9,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [0031-next-permutation](https://github.com/shubhkesh05/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/shubhkesh05/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/shubhkesh05/LeetCode/tree/master/0066-plus-one) |
+| [0136-single-number](https://github.com/shubhkesh05/LeetCode/tree/master/0136-single-number) |
 | [0303-range-sum-query-immutable](https://github.com/shubhkesh05/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shubhkesh05/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/shubhkesh05/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -71,6 +72,7 @@ https://leetcode.com/u/19t4SGXixa/
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/shubhkesh05/LeetCode/tree/master/0136-single-number) |
 | [0461-hamming-distance](https://github.com/shubhkesh05/LeetCode/tree/master/0461-hamming-distance) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/shubhkesh05/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Math
