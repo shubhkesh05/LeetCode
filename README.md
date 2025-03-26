@@ -85,6 +85,7 @@ https://leetcode.com/u/19t4SGXixa/
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shubhkesh05/LeetCode/tree/master/0022-generate-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shubhkesh05/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1160-letter-tile-possibilities](https://github.com/shubhkesh05/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shubhkesh05/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
@@ -117,6 +118,7 @@ https://leetcode.com/u/19t4SGXixa/
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shubhkesh05/LeetCode/tree/master/0022-generate-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/shubhkesh05/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shubhkesh05/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/shubhkesh05/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
@@ -162,6 +164,7 @@ https://leetcode.com/u/19t4SGXixa/
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shubhkesh05/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shubhkesh05/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
