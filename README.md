@@ -89,6 +89,7 @@ https://leetcode.com/u/19t4SGXixa/
 | ------- |
 | [0022-generate-parentheses](https://github.com/shubhkesh05/LeetCode/tree/master/0022-generate-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shubhkesh05/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shubhkesh05/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1160-letter-tile-possibilities](https://github.com/shubhkesh05/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/shubhkesh05/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shubhkesh05/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -102,6 +103,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [0094-binary-tree-inorder-traversal](https://github.com/shubhkesh05/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/shubhkesh05/LeetCode/tree/master/0155-min-stack) |
 | [0735-asteroid-collision](https://github.com/shubhkesh05/LeetCode/tree/master/0735-asteroid-collision) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shubhkesh05/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shubhkesh05/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shubhkesh05/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/shubhkesh05/LeetCode/tree/master/3447-clear-digits) |
