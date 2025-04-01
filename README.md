@@ -18,6 +18,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/shubhkesh05/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shubhkesh05/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2107-find-unique-binary-string](https://github.com/shubhkesh05/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2262-solving-questions-with-brainpower](https://github.com/shubhkesh05/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2448-count-number-of-bad-pairs](https://github.com/shubhkesh05/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shubhkesh05/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shubhkesh05/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -174,6 +175,7 @@ https://leetcode.com/u/19t4SGXixa/
 | ------- |
 | [0022-generate-parentheses](https://github.com/shubhkesh05/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shubhkesh05/LeetCode/tree/master/0042-trapping-rain-water) |
+| [2262-solving-questions-with-brainpower](https://github.com/shubhkesh05/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 ## Monotonic Stack
 |  |
 | ------- |
