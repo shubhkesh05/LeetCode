@@ -88,6 +88,7 @@ https://leetcode.com/u/19t4SGXixa/
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shubhkesh05/LeetCode/tree/master/0022-generate-parentheses) |
+| [0402-remove-k-digits](https://github.com/shubhkesh05/LeetCode/tree/master/0402-remove-k-digits) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shubhkesh05/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shubhkesh05/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1160-letter-tile-possibilities](https://github.com/shubhkesh05/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -102,6 +103,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [0042-trapping-rain-water](https://github.com/shubhkesh05/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shubhkesh05/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/shubhkesh05/LeetCode/tree/master/0155-min-stack) |
+| [0402-remove-k-digits](https://github.com/shubhkesh05/LeetCode/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/shubhkesh05/LeetCode/tree/master/0735-asteroid-collision) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shubhkesh05/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shubhkesh05/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
@@ -133,6 +135,7 @@ https://leetcode.com/u/19t4SGXixa/
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/shubhkesh05/LeetCode/tree/master/0402-remove-k-digits) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shubhkesh05/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Tree
 |  |
@@ -175,4 +178,5 @@ https://leetcode.com/u/19t4SGXixa/
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shubhkesh05/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0402-remove-k-digits](https://github.com/shubhkesh05/LeetCode/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
