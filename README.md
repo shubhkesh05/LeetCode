@@ -12,6 +12,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [0136-single-number](https://github.com/shubhkesh05/LeetCode/tree/master/0136-single-number) |
 | [0303-range-sum-query-immutable](https://github.com/shubhkesh05/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0735-asteroid-collision](https://github.com/shubhkesh05/LeetCode/tree/master/0735-asteroid-collision) |
+| [0747-min-cost-climbing-stairs](https://github.com/shubhkesh05/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shubhkesh05/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1364-tuple-with-same-product](https://github.com/shubhkesh05/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shubhkesh05/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -178,6 +179,7 @@ https://leetcode.com/u/19t4SGXixa/
 | ------- |
 | [0022-generate-parentheses](https://github.com/shubhkesh05/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shubhkesh05/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0747-min-cost-climbing-stairs](https://github.com/shubhkesh05/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [2262-solving-questions-with-brainpower](https://github.com/shubhkesh05/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 ## Monotonic Stack
 |  |
