@@ -9,6 +9,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [0031-next-permutation](https://github.com/shubhkesh05/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/shubhkesh05/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/shubhkesh05/LeetCode/tree/master/0066-plus-one) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shubhkesh05/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0136-single-number](https://github.com/shubhkesh05/LeetCode/tree/master/0136-single-number) |
 | [0303-range-sum-query-immutable](https://github.com/shubhkesh05/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [0735-asteroid-collision](https://github.com/shubhkesh05/LeetCode/tree/master/0735-asteroid-collision) |
@@ -112,6 +113,7 @@ https://leetcode.com/u/19t4SGXixa/
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shubhkesh05/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shubhkesh05/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/shubhkesh05/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/shubhkesh05/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/shubhkesh05/LeetCode/tree/master/0234-palindrome-linked-list) |
@@ -192,6 +194,7 @@ https://leetcode.com/u/19t4SGXixa/
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/shubhkesh05/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/shubhkesh05/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/shubhkesh05/LeetCode/tree/master/0402-remove-k-digits) |
 ## Linked List
 |  |
