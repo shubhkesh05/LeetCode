@@ -7,6 +7,7 @@ https://leetcode.com/u/19t4SGXixa/
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/shubhkesh05/LeetCode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/shubhkesh05/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shubhkesh05/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/shubhkesh05/LeetCode/tree/master/0066-plus-one) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shubhkesh05/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -218,4 +219,8 @@ https://leetcode.com/u/19t4SGXixa/
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/shubhkesh05/LeetCode/tree/master/0085-maximal-rectangle) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/shubhkesh05/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
