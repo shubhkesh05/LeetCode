@@ -106,6 +106,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [0067-add-binary](https://github.com/shubhkesh05/LeetCode/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/shubhkesh05/LeetCode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/shubhkesh05/LeetCode/tree/master/0402-remove-k-digits) |
+| [0812-rotate-string](https://github.com/shubhkesh05/LeetCode/tree/master/0812-rotate-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shubhkesh05/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shubhkesh05/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1160-letter-tile-possibilities](https://github.com/shubhkesh05/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -223,4 +224,8 @@ https://leetcode.com/u/19t4SGXixa/
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shubhkesh05/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/shubhkesh05/LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
