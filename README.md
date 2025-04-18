@@ -100,6 +100,7 @@ https://leetcode.com/u/19t4SGXixa/
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/shubhkesh05/LeetCode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/shubhkesh05/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shubhkesh05/LeetCode/tree/master/0067-add-binary) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shubhkesh05/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
