@@ -36,6 +36,7 @@ https://leetcode.com/u/19t4SGXixa/
 | ------- |
 | [0031-next-permutation](https://github.com/shubhkesh05/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/shubhkesh05/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0148-sort-list](https://github.com/shubhkesh05/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shubhkesh05/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/shubhkesh05/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/shubhkesh05/LeetCode/tree/master/0344-reverse-string) |
@@ -145,6 +146,7 @@ https://leetcode.com/u/19t4SGXixa/
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/shubhkesh05/LeetCode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/shubhkesh05/LeetCode/tree/master/0948-sort-an-array) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shubhkesh05/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/shubhkesh05/LeetCode/tree/master/2502-sort-the-people) |
@@ -203,6 +205,7 @@ https://leetcode.com/u/19t4SGXixa/
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/shubhkesh05/LeetCode/tree/master/0148-sort-list) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shubhkesh05/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/shubhkesh05/LeetCode/tree/master/0948-sort-an-array) |
 ## Dynamic Programming
@@ -223,6 +226,7 @@ https://leetcode.com/u/19t4SGXixa/
 ## Linked List
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/shubhkesh05/LeetCode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shubhkesh05/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/shubhkesh05/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Recursion
@@ -252,6 +256,7 @@ https://leetcode.com/u/19t4SGXixa/
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/shubhkesh05/LeetCode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/shubhkesh05/LeetCode/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
