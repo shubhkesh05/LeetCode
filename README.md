@@ -71,6 +71,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shubhkesh05/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shubhkesh05/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/shubhkesh05/LeetCode/tree/master/3447-clear-digits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/shubhkesh05/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Design
 |  |
 | ------- |
@@ -98,6 +99,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [0136-single-number](https://github.com/shubhkesh05/LeetCode/tree/master/0136-single-number) |
 | [0461-hamming-distance](https://github.com/shubhkesh05/LeetCode/tree/master/0461-hamming-distance) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/shubhkesh05/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/shubhkesh05/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
 |  |
 | ------- |
@@ -107,6 +109,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [1477-product-of-the-last-k-numbers](https://github.com/shubhkesh05/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/shubhkesh05/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/shubhkesh05/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/shubhkesh05/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
 | ------- |
@@ -233,6 +236,7 @@ https://leetcode.com/u/19t4SGXixa/
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/shubhkesh05/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/shubhkesh05/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
 | ------- |
