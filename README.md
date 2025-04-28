@@ -25,6 +25,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shubhkesh05/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2107-find-unique-binary-string](https://github.com/shubhkesh05/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2262-solving-questions-with-brainpower](https://github.com/shubhkesh05/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/shubhkesh05/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/shubhkesh05/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shubhkesh05/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/shubhkesh05/LeetCode/tree/master/2502-sort-the-people) |
@@ -165,6 +166,7 @@ https://leetcode.com/u/19t4SGXixa/
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/shubhkesh05/LeetCode/tree/master/0303-range-sum-query-immutable) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shubhkesh05/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/shubhkesh05/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Backtracking
 |  |
 | ------- |
@@ -250,6 +252,7 @@ https://leetcode.com/u/19t4SGXixa/
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shubhkesh05/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/shubhkesh05/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## String Matching
 |  |
 | ------- |
@@ -258,6 +261,7 @@ https://leetcode.com/u/19t4SGXixa/
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhkesh05/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2394-count-subarrays-with-score-less-than-k](https://github.com/shubhkesh05/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Queue
 |  |
 | ------- |
