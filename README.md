@@ -25,6 +25,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/shubhkesh05/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shubhkesh05/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2107-find-unique-binary-string](https://github.com/shubhkesh05/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shubhkesh05/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2262-solving-questions-with-brainpower](https://github.com/shubhkesh05/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/shubhkesh05/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2448-count-number-of-bad-pairs](https://github.com/shubhkesh05/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -158,6 +159,7 @@ https://leetcode.com/u/19t4SGXixa/
 | ------- |
 | [0148-sort-list](https://github.com/shubhkesh05/LeetCode/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/shubhkesh05/LeetCode/tree/master/0948-sort-an-array) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shubhkesh05/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shubhkesh05/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/shubhkesh05/LeetCode/tree/master/2502-sort-the-people) |
 ## Data Stream
@@ -185,6 +187,7 @@ https://leetcode.com/u/19t4SGXixa/
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/shubhkesh05/LeetCode/tree/master/0402-remove-k-digits) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shubhkesh05/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shubhkesh05/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Tree
 |  |
@@ -255,6 +258,7 @@ https://leetcode.com/u/19t4SGXixa/
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shubhkesh05/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shubhkesh05/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/shubhkesh05/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## String Matching
 |  |
@@ -270,6 +274,7 @@ https://leetcode.com/u/19t4SGXixa/
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/shubhkesh05/LeetCode/tree/master/0225-implement-stack-using-queues) |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shubhkesh05/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Merge Sort
 |  |
 | ------- |
@@ -287,4 +292,8 @@ https://leetcode.com/u/19t4SGXixa/
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/shubhkesh05/LeetCode/tree/master/0948-sort-an-array) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shubhkesh05/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 <!---LeetCode Topics End-->
