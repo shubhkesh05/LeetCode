@@ -46,6 +46,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [0160-intersection-of-two-linked-lists](https://github.com/shubhkesh05/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/shubhkesh05/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/shubhkesh05/LeetCode/tree/master/0344-reverse-string) |
+| [0868-push-dominoes](https://github.com/shubhkesh05/LeetCode/tree/master/0868-push-dominoes) |
 ## Hash Table
 |  |
 | ------- |
@@ -127,6 +128,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [0344-reverse-string](https://github.com/shubhkesh05/LeetCode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/shubhkesh05/LeetCode/tree/master/0402-remove-k-digits) |
 | [0812-rotate-string](https://github.com/shubhkesh05/LeetCode/tree/master/0812-rotate-string) |
+| [0868-push-dominoes](https://github.com/shubhkesh05/LeetCode/tree/master/0868-push-dominoes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shubhkesh05/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/shubhkesh05/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1160-letter-tile-possibilities](https://github.com/shubhkesh05/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -231,6 +233,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [0042-trapping-rain-water](https://github.com/shubhkesh05/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/shubhkesh05/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0747-min-cost-climbing-stairs](https://github.com/shubhkesh05/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0868-push-dominoes](https://github.com/shubhkesh05/LeetCode/tree/master/0868-push-dominoes) |
 | [2262-solving-questions-with-brainpower](https://github.com/shubhkesh05/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 ## Monotonic Stack
 |  |
