@@ -19,6 +19,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [0747-min-cost-climbing-stairs](https://github.com/shubhkesh05/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shubhkesh05/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0948-sort-an-array](https://github.com/shubhkesh05/LeetCode/tree/master/0948-sort-an-array) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/shubhkesh05/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1364-tuple-with-same-product](https://github.com/shubhkesh05/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shubhkesh05/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shubhkesh05/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -189,6 +190,7 @@ https://leetcode.com/u/19t4SGXixa/
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/shubhkesh05/LeetCode/tree/master/0402-remove-k-digits) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/shubhkesh05/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shubhkesh05/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shubhkesh05/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Tree
