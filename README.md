@@ -238,6 +238,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [0042-trapping-rain-water](https://github.com/shubhkesh05/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/shubhkesh05/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0747-min-cost-climbing-stairs](https://github.com/shubhkesh05/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
+| [0806-domino-and-tromino-tiling](https://github.com/shubhkesh05/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/shubhkesh05/LeetCode/tree/master/0868-push-dominoes) |
 | [2262-solving-questions-with-brainpower](https://github.com/shubhkesh05/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 ## Monotonic Stack
