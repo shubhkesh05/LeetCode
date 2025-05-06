@@ -26,6 +26,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [1477-product-of-the-last-k-numbers](https://github.com/shubhkesh05/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/shubhkesh05/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shubhkesh05/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2048-build-array-from-permutation](https://github.com/shubhkesh05/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2107-find-unique-binary-string](https://github.com/shubhkesh05/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shubhkesh05/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2262-solving-questions-with-brainpower](https://github.com/shubhkesh05/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
@@ -78,6 +79,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [0067-add-binary](https://github.com/shubhkesh05/LeetCode/tree/master/0067-add-binary) |
 | [0735-asteroid-collision](https://github.com/shubhkesh05/LeetCode/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/shubhkesh05/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2048-build-array-from-permutation](https://github.com/shubhkesh05/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2470-removing-stars-from-a-string](https://github.com/shubhkesh05/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shubhkesh05/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shubhkesh05/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
