@@ -39,6 +39,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/shubhkesh05/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shubhkesh05/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shubhkesh05/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shubhkesh05/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -101,6 +102,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [2434-design-a-number-container-system](https://github.com/shubhkesh05/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shubhkesh05/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shubhkesh05/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shubhkesh05/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -265,6 +267,7 @@ https://leetcode.com/u/19t4SGXixa/
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/shubhkesh05/LeetCode/tree/master/0085-maximal-rectangle) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shubhkesh05/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -307,4 +310,12 @@ https://leetcode.com/u/19t4SGXixa/
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shubhkesh05/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Graph
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shubhkesh05/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+## Shortest Path
+|  |
+| ------- |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shubhkesh05/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 <!---LeetCode Topics End-->
