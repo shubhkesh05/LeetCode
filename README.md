@@ -40,6 +40,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shubhkesh05/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shubhkesh05/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shubhkesh05/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/shubhkesh05/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +104,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shubhkesh05/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shubhkesh05/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shubhkesh05/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/shubhkesh05/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Ordered Set
 |  |
 | ------- |
@@ -268,6 +270,7 @@ https://leetcode.com/u/19t4SGXixa/
 | ------- |
 | [0085-maximal-rectangle](https://github.com/shubhkesh05/LeetCode/tree/master/0085-maximal-rectangle) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shubhkesh05/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/shubhkesh05/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -314,8 +317,10 @@ https://leetcode.com/u/19t4SGXixa/
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shubhkesh05/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/shubhkesh05/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shubhkesh05/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/shubhkesh05/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 <!---LeetCode Topics End-->
