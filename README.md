@@ -128,6 +128,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [2448-count-number-of-bad-pairs](https://github.com/shubhkesh05/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/shubhkesh05/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shubhkesh05/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3637-count-number-of-balanced-permutations](https://github.com/shubhkesh05/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## String
 |  |
 | ------- |
@@ -149,6 +150,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [2470-removing-stars-from-a-string](https://github.com/shubhkesh05/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/shubhkesh05/LeetCode/tree/master/2502-sort-the-people) |
 | [3447-clear-digits](https://github.com/shubhkesh05/LeetCode/tree/master/3447-clear-digits) |
+| [3637-count-number-of-balanced-permutations](https://github.com/shubhkesh05/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Stack
 |  |
 | ------- |
@@ -247,6 +249,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [0806-domino-and-tromino-tiling](https://github.com/shubhkesh05/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/shubhkesh05/LeetCode/tree/master/0868-push-dominoes) |
 | [2262-solving-questions-with-brainpower](https://github.com/shubhkesh05/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [3637-count-number-of-balanced-permutations](https://github.com/shubhkesh05/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -323,4 +326,8 @@ https://leetcode.com/u/19t4SGXixa/
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shubhkesh05/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/shubhkesh05/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3637-count-number-of-balanced-permutations](https://github.com/shubhkesh05/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 <!---LeetCode Topics End-->
