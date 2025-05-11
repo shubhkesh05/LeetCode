@@ -21,6 +21,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [0948-sort-an-array](https://github.com/shubhkesh05/LeetCode/tree/master/0948-sort-an-array) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/shubhkesh05/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/shubhkesh05/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/shubhkesh05/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1364-tuple-with-same-product](https://github.com/shubhkesh05/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shubhkesh05/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shubhkesh05/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
