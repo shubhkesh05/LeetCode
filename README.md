@@ -71,6 +71,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shubhkesh05/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/shubhkesh05/LeetCode/tree/master/2502-sort-the-people) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/shubhkesh05/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/shubhkesh05/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Counting
 |  |
 | ------- |
@@ -78,6 +79,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [1227-number-of-equivalent-domino-pairs](https://github.com/shubhkesh05/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1364-tuple-with-same-product](https://github.com/shubhkesh05/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [2448-count-number-of-bad-pairs](https://github.com/shubhkesh05/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/shubhkesh05/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Simulation
 |  |
 | ------- |
@@ -131,6 +133,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [2448-count-number-of-bad-pairs](https://github.com/shubhkesh05/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/shubhkesh05/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shubhkesh05/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/shubhkesh05/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/shubhkesh05/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## String
 |  |
@@ -153,6 +156,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [2470-removing-stars-from-a-string](https://github.com/shubhkesh05/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/shubhkesh05/LeetCode/tree/master/2502-sort-the-people) |
 | [3447-clear-digits](https://github.com/shubhkesh05/LeetCode/tree/master/3447-clear-digits) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/shubhkesh05/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/shubhkesh05/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Stack
 |  |
@@ -253,6 +257,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [0806-domino-and-tromino-tiling](https://github.com/shubhkesh05/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/shubhkesh05/LeetCode/tree/master/0868-push-dominoes) |
 | [2262-solving-questions-with-brainpower](https://github.com/shubhkesh05/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/shubhkesh05/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/shubhkesh05/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Monotonic Stack
 |  |
