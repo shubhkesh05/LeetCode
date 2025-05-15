@@ -36,6 +36,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [2448-count-number-of-bad-pairs](https://github.com/shubhkesh05/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shubhkesh05/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/shubhkesh05/LeetCode/tree/master/2502-sort-the-people) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shubhkesh05/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/shubhkesh05/LeetCode/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/shubhkesh05/LeetCode/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/shubhkesh05/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
@@ -155,6 +156,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [2456-construct-smallest-number-from-di-string](https://github.com/shubhkesh05/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2470-removing-stars-from-a-string](https://github.com/shubhkesh05/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 | [2502-sort-the-people](https://github.com/shubhkesh05/LeetCode/tree/master/2502-sort-the-people) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shubhkesh05/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3447-clear-digits](https://github.com/shubhkesh05/LeetCode/tree/master/3447-clear-digits) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/shubhkesh05/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/shubhkesh05/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
@@ -212,6 +214,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/shubhkesh05/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shubhkesh05/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shubhkesh05/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shubhkesh05/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Tree
 |  |
 | ------- |
@@ -257,6 +260,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [0806-domino-and-tromino-tiling](https://github.com/shubhkesh05/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/shubhkesh05/LeetCode/tree/master/0868-push-dominoes) |
 | [2262-solving-questions-with-brainpower](https://github.com/shubhkesh05/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/shubhkesh05/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/shubhkesh05/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3637-count-number-of-balanced-permutations](https://github.com/shubhkesh05/LeetCode/tree/master/3637-count-number-of-balanced-permutations) |
 ## Monotonic Stack
