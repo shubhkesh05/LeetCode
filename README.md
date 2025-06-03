@@ -26,6 +26,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [1293-three-consecutive-odds](https://github.com/shubhkesh05/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1364-tuple-with-same-product](https://github.com/shubhkesh05/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shubhkesh05/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/shubhkesh05/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shubhkesh05/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/shubhkesh05/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/shubhkesh05/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -270,6 +271,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [0100-same-tree](https://github.com/shubhkesh05/LeetCode/tree/master/0100-same-tree) |
 | [0945-snakes-and-ladders](https://github.com/shubhkesh05/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shubhkesh05/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/shubhkesh05/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/shubhkesh05/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/shubhkesh05/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
 ## Binary Tree
@@ -374,6 +376,7 @@ https://leetcode.com/u/19t4SGXixa/
 ## Graph
 |  |
 | ------- |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/shubhkesh05/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/shubhkesh05/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shubhkesh05/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/shubhkesh05/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
