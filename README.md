@@ -6,6 +6,7 @@ https://leetcode.com/u/19t4SGXixa/
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shubhkesh05/LeetCode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/shubhkesh05/LeetCode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shubhkesh05/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shubhkesh05/LeetCode/tree/master/0042-trapping-rain-water) |
@@ -68,6 +69,7 @@ https://leetcode.com/u/19t4SGXixa/
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shubhkesh05/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhkesh05/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/shubhkesh05/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shubhkesh05/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
