@@ -147,6 +147,7 @@ https://leetcode.com/u/19t4SGXixa/
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/shubhkesh05/LeetCode/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/shubhkesh05/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/shubhkesh05/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shubhkesh05/LeetCode/tree/master/0067-add-binary) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shubhkesh05/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -330,6 +331,7 @@ https://leetcode.com/u/19t4SGXixa/
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/shubhkesh05/LeetCode/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/shubhkesh05/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shubhkesh05/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
