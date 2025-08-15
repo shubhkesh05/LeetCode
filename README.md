@@ -259,6 +259,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [0102-binary-tree-level-order-traversal](https://github.com/shubhkesh05/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shubhkesh05/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shubhkesh05/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0543-diameter-of-binary-tree](https://github.com/shubhkesh05/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shubhkesh05/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shubhkesh05/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shubhkesh05/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -272,6 +273,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [0100-same-tree](https://github.com/shubhkesh05/LeetCode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shubhkesh05/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shubhkesh05/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0543-diameter-of-binary-tree](https://github.com/shubhkesh05/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shubhkesh05/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shubhkesh05/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/shubhkesh05/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -295,6 +297,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [0102-binary-tree-level-order-traversal](https://github.com/shubhkesh05/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/shubhkesh05/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shubhkesh05/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0543-diameter-of-binary-tree](https://github.com/shubhkesh05/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shubhkesh05/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/shubhkesh05/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/shubhkesh05/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
