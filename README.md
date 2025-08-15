@@ -139,6 +139,7 @@ https://leetcode.com/u/19t4SGXixa/
 | ------- |
 | [0067-add-binary](https://github.com/shubhkesh05/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/shubhkesh05/LeetCode/tree/master/0136-single-number) |
+| [0342-power-of-four](https://github.com/shubhkesh05/LeetCode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/shubhkesh05/LeetCode/tree/master/0461-hamming-distance) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/shubhkesh05/LeetCode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/shubhkesh05/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -150,6 +151,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [0050-powx-n](https://github.com/shubhkesh05/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/shubhkesh05/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shubhkesh05/LeetCode/tree/master/0067-add-binary) |
+| [0342-power-of-four](https://github.com/shubhkesh05/LeetCode/tree/master/0342-power-of-four) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shubhkesh05/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shubhkesh05/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/shubhkesh05/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
@@ -343,6 +345,7 @@ https://leetcode.com/u/19t4SGXixa/
 | ------- |
 | [0050-powx-n](https://github.com/shubhkesh05/LeetCode/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/shubhkesh05/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/shubhkesh05/LeetCode/tree/master/0342-power-of-four) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/shubhkesh05/LeetCode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
