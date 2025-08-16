@@ -153,6 +153,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [0067-add-binary](https://github.com/shubhkesh05/LeetCode/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/shubhkesh05/LeetCode/tree/master/0342-power-of-four) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shubhkesh05/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1448-maximum-69-number](https://github.com/shubhkesh05/LeetCode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shubhkesh05/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/shubhkesh05/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/shubhkesh05/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -247,6 +248,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [0402-remove-k-digits](https://github.com/shubhkesh05/LeetCode/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/shubhkesh05/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/shubhkesh05/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1448-maximum-69-number](https://github.com/shubhkesh05/LeetCode/tree/master/1448-maximum-69-number) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/shubhkesh05/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shubhkesh05/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/shubhkesh05/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
