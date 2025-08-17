@@ -152,6 +152,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [0066-plus-one](https://github.com/shubhkesh05/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/shubhkesh05/LeetCode/tree/master/0067-add-binary) |
 | [0342-power-of-four](https://github.com/shubhkesh05/LeetCode/tree/master/0342-power-of-four) |
+| [0867-new-21-game](https://github.com/shubhkesh05/LeetCode/tree/master/0867-new-21-game) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shubhkesh05/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/shubhkesh05/LeetCode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shubhkesh05/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -321,6 +322,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [0435-non-overlapping-intervals](https://github.com/shubhkesh05/LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0747-min-cost-climbing-stairs](https://github.com/shubhkesh05/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/shubhkesh05/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
+| [0867-new-21-game](https://github.com/shubhkesh05/LeetCode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/shubhkesh05/LeetCode/tree/master/0868-push-dominoes) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/shubhkesh05/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2262-solving-questions-with-brainpower](https://github.com/shubhkesh05/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
@@ -371,6 +373,7 @@ https://leetcode.com/u/19t4SGXixa/
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubhkesh05/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0867-new-21-game](https://github.com/shubhkesh05/LeetCode/tree/master/0867-new-21-game) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/shubhkesh05/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/shubhkesh05/LeetCode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Queue
@@ -427,4 +430,8 @@ https://leetcode.com/u/19t4SGXixa/
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/shubhkesh05/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0867-new-21-game](https://github.com/shubhkesh05/LeetCode/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
