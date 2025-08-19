@@ -39,6 +39,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/shubhkesh05/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2262-solving-questions-with-brainpower](https://github.com/shubhkesh05/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/shubhkesh05/LeetCode/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/shubhkesh05/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/shubhkesh05/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/shubhkesh05/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/shubhkesh05/LeetCode/tree/master/2502-sort-the-people) |
@@ -156,6 +157,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shubhkesh05/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1448-maximum-69-number](https://github.com/shubhkesh05/LeetCode/tree/master/1448-maximum-69-number) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shubhkesh05/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/shubhkesh05/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/shubhkesh05/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/shubhkesh05/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/shubhkesh05/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
