@@ -27,6 +27,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [1227-number-of-equivalent-domino-pairs](https://github.com/shubhkesh05/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/shubhkesh05/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1364-tuple-with-same-product](https://github.com/shubhkesh05/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/shubhkesh05/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/shubhkesh05/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/shubhkesh05/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1477-product-of-the-last-k-numbers](https://github.com/shubhkesh05/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -328,6 +329,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [0806-domino-and-tromino-tiling](https://github.com/shubhkesh05/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0867-new-21-game](https://github.com/shubhkesh05/LeetCode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/shubhkesh05/LeetCode/tree/master/0868-push-dominoes) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/shubhkesh05/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/shubhkesh05/LeetCode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2262-solving-questions-with-brainpower](https://github.com/shubhkesh05/LeetCode/tree/master/2262-solving-questions-with-brainpower) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/shubhkesh05/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -361,6 +363,7 @@ https://leetcode.com/u/19t4SGXixa/
 | [0073-set-matrix-zeroes](https://github.com/shubhkesh05/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/shubhkesh05/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0945-snakes-and-ladders](https://github.com/shubhkesh05/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/shubhkesh05/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/shubhkesh05/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/shubhkesh05/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Binary Search
